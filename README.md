@@ -1,11 +1,12 @@
-## End to End MAchine Learning Project
+## End to End MAchine Learning Project deployed in Azure in CI/CD fashion
 
 
 
 ## Run from terminal:
 
-docker build -t testdockerkrish.azurecr.io/mltest:latest .
-
-docker login testdockerkrish.azurecr.io
-
-docker push testdockerkrish.azurecr.io/mltest:latest
+Azure deployment
+Container registry
+Docker Set up in local and push container registry
+Azure Web app with container
+Configure the github deployment center
+testdockerayesha.azurecr.io
